@@ -23,7 +23,7 @@ Before running this project, ensure you have the following installed:
 
    ```bash
    git clone https://github.com/thearnabsaha/Express-Todo-List-API.git
-   cd expresstodo
+   cd Express-Todo-List-API
    ```
 
 2. Install dependencies:
