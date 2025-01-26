@@ -1,7 +1,7 @@
 {
   "name": "expresstodo",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple To-Do List API built with Express.js.",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
